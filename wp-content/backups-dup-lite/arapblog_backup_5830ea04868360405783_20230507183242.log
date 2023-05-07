@@ -1,0 +1,74 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: May 7, 2023 6:33 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.3.1
+WORDPRESS:	6.2
+PHP INFO:	7.4.21 | SAPI: apache2handler
+SERVER:		Apache/2.4.46 (Unix) OpenSSL/1.0.2u PHP/7.4.21 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (128M default) 
+MEMORY STACK: 40.5MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:13 | filtered:0 | create:13
+FILTERED: []
+SQL CREATED: arapblog_backup_5830ea04868360405783_20230507183242_database.sql
+SQL FILE SIZE: 1.34MB (1409648)
+SQL FILE TIME: 2023-05-07 18:33:06
+SQL RUNTIME: 0.06 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  /Users/shaynemcgregor/a-rap-blog-wp
+ARCHIVE FILE: arapblog_backup_5830ea04868360405783_20230507183242_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	152.94MB
+STATS:	Dirs 1,179 | Files 11,943
+SQL ADDED: arapblog_backup_5830ea04868360405783_20230507183242_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 13122
+    [filename] => /Users/shaynemcgregor/a-rap-blog-wp/wp-content/backups-dup-lite/tmp/arapblog_backup_5830ea04868360405783_20230507183242_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 13121
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 82.11MB
+ARCHIVE RUNTIME: 14.36 sec.
+MEMORY STACK: 44.5MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 1.34MB
+INSTALLER FILE: 73.35KB
+ARCHIVE FILE: 84.26MB 
+EXPECTED FILE/DIRECTORY COUNT: 13,122
+ACTUAL FILE/DIRECTORY COUNT: 13,121
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 19.79 sec.
+PEAK PHP MEMORY USED: 48.5MB
+DONE PROCESSING => arapblog_backup May 7, 2023 6:33 pm
+
