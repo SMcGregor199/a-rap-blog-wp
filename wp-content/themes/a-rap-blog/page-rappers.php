@@ -6,4 +6,3 @@ endforeach;
 ?>
 <?php get_footer(); ?>
 
-//random comment
