@@ -1,6 +1,5 @@
 <?php
 $context = [];
-$context['message'] = "Hello World from the home.php file";
-$context['random'] = rand(1,9999);
+$context['site_title'] = get_bloginfo( 'name' );
 Timber::render('home.twig', $context);
 
