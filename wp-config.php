@@ -29,7 +29,7 @@ define( 'DB_USER', 'plesk' );
 define( 'DB_PASSWORD', 'changeme2024!!' );
 
 /** Database hostname */
-define( 'DB_HOST', '134.209.214.33' );
+define( 'DB_HOST', 'localhost:3306' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
